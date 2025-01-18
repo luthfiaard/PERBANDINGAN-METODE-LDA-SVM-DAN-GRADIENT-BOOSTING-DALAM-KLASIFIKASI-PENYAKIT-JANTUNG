@@ -1,1 +1,2 @@
-# PERBANDINGAN-METODE-LDA-SVM-DAN-GRADIENT-BOOSTING-DALAM-KLASIFIKASI-PENYAKIT-JANTUNG
+Deskripsi Proyek:
+Proyek ini bertujuan untuk membandingkan tiga metode klasifikasi—Linear Discriminant Analysis (LDA), Support Vector Machines (SVM), dan Gradient Boosting—dalam menganalisis dataset penyakit jantung. Evaluasi dilakukan berdasarkan akurasi, F1-score, presisi, dan recall guna menentukan model terbaik. Gradient Boosting unggul dengan akurasi 82%, mengatasi distribusi data kompleks dan memberikan performa terbaik di kedua kelas. SVM menyusul dengan akurasi 80% dan keunggulan recall tinggi pada kelas 1 (94%), meski presisinya lebih rendah. LDA, meskipun sederhana, tetap kompetitif dengan akurasi 79%, namun terbatas oleh asumsi distribusi data.
